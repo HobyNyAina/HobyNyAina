@@ -13,7 +13,7 @@
    - GitHub : [github.com/HobyNyAina](https://github.com/HobyNyAina)  
    - LinkedIn : *www.linkedin.com/in/sitraka-ny-aina*
 
-5. ⚡ Fun fact : Je transforme chaque idée de projet en défi technique et j’adore automatiser les tâches répétitives.
+5. ⚡ Fun fact : Je transforme chaque idée de projet en défi technique.
 
 ---
 
