@@ -20,7 +20,7 @@
 ## 🛠️ Outils et technologies
 
 - **Langages** : JavaScript, TypeScript, PHP, HTML, CSS  
-- **Frameworks** : Next.js, React, Magento 2, WordPress  
+- **Frameworks** : Next.js, React, Symfony, Magento 2, WordPress  
 - **Outils** : Git, GitHub, VS Code, Figma
 - **Gestion de projet** : Trello, Notion  
 
