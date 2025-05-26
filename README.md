@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Sitraka Ny Aina
+# 👋 Salut, moi c’est Sitraka
 
 ## À propos de moi
 
