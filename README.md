@@ -1,12 +1,8 @@
-# 👋 Salut, moi c’est Sitraka
-
-## À propos de moi
+# 👋 Salut,
 
 👀 Je m’intéresse au développement web moderne, notamment avec **Next.js**, **WordPress/WooCommerce** et **React**.
  
 🌱 Je suis actuellement en train d’approfondir mes compétences en **TypeScript**, **Zod**, **Zustand**, et en intégration de design pro avec **Tailwind CSS** et **Framer Motion**.
-
-💞️ Je suis ouvert à collaborer sur des projets **e-commerce**, **applications front-end dynamiques**, ou des **outils personnalisés pour développeurs**.
 
 📫 Vous pouvez me contacter via :  
    - Email : *hobynyaina.sitraka@gmail.com*  
